@@ -1,7 +1,8 @@
 ```python
-"""Escreva um programa que retorne o número do quadrante (1,2,3 ou 4) através de um método chamado verificaQuadrante, que deverá receber um valor para x e um valor para y (coordenadas)."""
+"""Escreva um programa que retorne o número do quadrante (1,2,3 ou 4) através de um método
+chamado verificaQuadrante, que deverá receber um valor para x e um valor para y (coordenadas)."""
 ```
-# Quadrantes:
+### Quadrantes:
 ![Quadrantes](http://i.imgur.com/vnxAqN5.png)
 
 ```python
