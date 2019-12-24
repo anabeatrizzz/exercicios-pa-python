@@ -1,5 +1,5 @@
-# Escreva um programa que calcule e exiba o resultado da seguinte expressão matemática: (Dica: O usuário deverá informar os valores para as variáveis A, B e C)
-# A² * 5 – C / (B – A % 4)
+# Escreva um programa que calcule e exiba o resultado da seguinte expressão matemática: A² * 5 – C / (B – A % 4)
+# (Dica: O usuário deverá informar os valores para as variáveis A, B e C)
 
 A = float(input("Dê um valor para A: "))
 B = float(input("Dê um valor para B: "))
