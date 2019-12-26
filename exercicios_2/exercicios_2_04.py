@@ -1,3 +1,6 @@
+"""Escreva um programa que exiba na tela a quantidade de números ímpares existentes entre dois números que o usuário digitar
+(testar inclusive os números digitados)."""
+
 soma = 0
 num1 = int(input("Digite um numero: "))
 num2 = int(input("Digite outro numero: "))
