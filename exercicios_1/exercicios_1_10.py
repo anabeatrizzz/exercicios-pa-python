@@ -1,4 +1,5 @@
-# Escreva um programa que calcule a expressão lógica, sendo que o usuário deverá informar os valores (números inteiros) para as variáveis.
+# Escreva um programa que calcule a expressão lógica, sendo que o usuário deverá informar os valores (números inteiros)
+# para as variáveis.
 # ((X >= Y) AND (Z <=X)) OR ((X == W) AND (Y == Z)) OR (NOT(X != W))
 
 X = int(input("Informe um valor para X: "))
