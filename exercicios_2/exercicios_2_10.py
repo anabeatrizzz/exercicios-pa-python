@@ -7,7 +7,6 @@ No final do processamento imprimir o salário total e o salário excedente.
 O programa só deve parar de rodar quando o usuário responder "S" na seguinte pergunta, "Deseja encerrar o programa?".
 """
 
-E = 0
 C = int(input('Digite seu codigo: '))
 N = int(input('Numero de horas trabalhadas: '))
 if N > 50:
