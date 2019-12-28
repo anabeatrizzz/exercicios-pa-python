@@ -5,7 +5,6 @@ os produtos que possuem preço até o valor digitado pelo usuário."""
 
 nomes = []
 precos = []
-x = y = 0
 
 for c in range(0, 10):
 	nomes.append(str(input(f"Digite o nome do {c+1} produto")))
