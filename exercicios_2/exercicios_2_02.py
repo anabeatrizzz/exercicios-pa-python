@@ -1,0 +1,17 @@
+"""Escreva um programa que exiba na tela em ordem decrescente, apenas os números ímpares existentes
+entre dois números digitados pelo usuário (inclusive eles)."""
+
+num1 = int(input("Digite um número: "))
+num2 = int(input("Digite outro número: "))
+
+if num1 > num2:
+	ma = num1
+	me = num2
+
+if num1 < num2:
+	ma = num2
+	me = num1
+
+for c in range(me, ma+1):
+	if c % 2 != 0:
+		print(c)
