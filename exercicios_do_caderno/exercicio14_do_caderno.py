@@ -2,5 +2,5 @@
 
 s = 0
 for c in range(1, 123+1):
-    s = x / (x += 1)
+	s = c // (c + 1)
 print(f"A soma é {s}")
