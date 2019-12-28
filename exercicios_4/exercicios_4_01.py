@@ -1,5 +1,4 @@
-"""Escreva um programa que leia um vetor de 15 números inteiros
-e exiba ao final apenas os números que estão armazenados
+"""Escreva um programa que leia um vetor de 15 números inteiros e exiba ao final apenas os números que estão armazenados
 nas posições pares do vetor."""
 
 numeros = []
