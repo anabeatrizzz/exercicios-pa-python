@@ -1,5 +1,4 @@
-"""Elabore um programa que receba o nome e o ano de nascimento
-de uma pessoa e mostre na tela a idade da pessoa."""
+"""Elabore um programa que receba o nome e o ano de nascimento de uma pessoa e mostre na tela a idade da pessoa."""
 
 nome = str(input("Qual é o seu nome? "))
 nasc = int(input("Em que ano você nasceu? "))
