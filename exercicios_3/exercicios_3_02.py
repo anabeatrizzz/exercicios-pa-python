@@ -1,6 +1,5 @@
-"""Escreva um programa que leia dois valores reais e apresente
-a diferença do maior para o menor. Um método chamado diferenca
-deverá ser implementado para realizar o cálculo e exibir o resultado."""
+"""Escreva um programa que leia dois valores reais e apresente a diferença do maior para o menor.
+Um método chamado diferenca deverá ser implementado para realizar o cálculo e exibir o resultado."""
 
 def Diferenca(a, b):
 	me = ma = 0
