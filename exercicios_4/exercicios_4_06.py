@@ -1,11 +1,11 @@
-"""Implemente um jogo básico do clássico “Jogo da Velha”.
+"""
+Implemente um jogo básico do clássico “Jogo da Velha”.
 Onde deverá ser usada uma matriz 3x3.
-Dicas: Para identificar o jogador, utilizar uma variável
-que servirá como um contador, e para contador sendo par associa-se
-a jogada sendo do jogador 1, senão, em caso de ímpar associa-se
-ao jogador 2.
-A matriz pode ser do tipo char para armazenar ‘O’ e ‘X’, ou também do tipo int
-para armazenar 1 e 2, identificando o número do jogador."""
+Dicas: Para identificar o jogador, utilizar uma variável que servirá como um contador,
+e para contador sendo par associa-se a jogada sendo do jogador 1, senão, em caso de ímpar associa-se ao jogador 2.
+A matriz pode ser do tipo char para armazenar ‘O’ e ‘X’, ou também do tipo int para armazenar 1 e 2,
+identificando o número do jogador.
+"""
 
 import os
 import time
