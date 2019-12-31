@@ -1,3 +1,6 @@
+"""Escreva um programa que peça para o usuário digitar uma data contendo dia, mês e ano
+e o programa deverá informar se é uma data válida ou não."""
+
 class Data():
 	def __init__(self):
 		self.dia = 0
