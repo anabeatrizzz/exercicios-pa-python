@@ -1,3 +1,22 @@
+"""
+Escreva um programa que apresente o seguinte menu para o usuário:
+1 – Cadastrar carro
+2 – Consultar carro por ano de fabricação (deverá listar todos os carros fabricados no ano digitado
+pelo usuário)
+3 – Consultar carro por modelo (deverá listar todos os carros cujo modelo será digitado pelo usuário)
+4 – Consultar carro por cor (deverá listar todos os carros cuja cor será digitada pelo usuário)
+5 – Exibir todos os carros cadastrados
+6 – Alterar algum dado de um carro (deverá listar todos os dados de um determinado carro e solicitar
+que o usuário escolha qual campo deseja alterar)
+7 – Excluir um carro (deverá listar todos os dados de um determinado carro e solicitar a confirmação
+para exclusão)
+0 – Sair
+Neste exercício, deverá ser criada uma struct carro que contenha no mínimo os campos modelo, ano
+e cor.
+O usuário deverá cadastrar vários carros até um máximo de 500 registros, portanto deverá ser
+utilizado um vetor.
+"""
+
 import time
 import os
 cont2 = 0
