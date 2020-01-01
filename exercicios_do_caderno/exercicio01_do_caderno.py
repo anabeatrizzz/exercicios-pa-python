@@ -1,4 +1,5 @@
-"""Elabore um algoritmo que receba dois números e mostre na tela o resultado da soma, subtração, multiplicação e divisão desses números"""
+"""Elabore um algoritmo que receba dois números e mostre na tela o resultado da soma, subtração, multiplicação
+e divisão desses números"""
 
 num1 = float(input("Digite um numero: "))
 num2 = float(input("Digite outro numero: "))
