@@ -1,4 +1,5 @@
-"""Escrever um algoritmo para ler três valores inteiros e escrever na tela o maior e o menor deles. Considere que todos os valores são diferentes."""
+"""Escrever um algoritmo para ler três valores inteiros e escrever na tela o maior e o menor deles.
+Considere que todos os valores são diferentes."""
 
 pri = int(input("Digite o primeiro valor: "))
 seg = int(input("Digite o segundo valor: "))
