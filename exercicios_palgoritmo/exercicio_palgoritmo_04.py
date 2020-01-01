@@ -1,4 +1,6 @@
-"""Fazer um algoritmo para ler o ano de nascimento de uma pessoa, calcular e mostrar sua idade e, também, verificar e mostrar se ela já tem idade para votar (16 anos ou mais) e para conseguir a Carteira de Habilitação (18 anos ou mais)."""
+"""Fazer um algoritmo para ler o ano de nascimento de uma pessoa, calcular e mostrar sua idade e, também,
+verificar e mostrar se ela já tem idade para votar (16 anos ou mais)
+e para conseguir a Carteira de Habilitação (18 anos ou mais)."""
 
 from datetime import date
 
