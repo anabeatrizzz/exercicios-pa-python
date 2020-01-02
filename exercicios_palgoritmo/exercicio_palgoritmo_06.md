@@ -1,6 +1,7 @@
 ```python
 """
-Escrever um algoritmo que lê o número de identificação, as 3 notas obtidas por um aluno nas 3 verificações e a média dos exercícios que fazem parte da avaliação.
+Escrever um algoritmo que lê o número de identificação, as 3 notas obtidas por um aluno
+nas 3 verificações e a média dos exercícios que fazem parte da avaliação.
 Calcular a média de aproveitamento, usando a fórmula:
 MA = (Nota1 + Nota2 . 2 + Nota3 . 3 + ME) / 7
 A atribuição de conceitos obedece a tabela abaixo:
@@ -14,9 +15,11 @@ Média de aproveitamento|Conceito
 4,0 e 6,0|D
 < 4,0|E
 
-```pyhton
+```python
 """
-O algoritmo deve escrever o número do aluno, suas notas, a média dos exercícios, a média de aproveitamento, o conceito correspondente e a mensagem: APROVADO se o conceito for A,B ou C e REPROVADO se o conceito for D ou E.
+O algoritmo deve escrever o número do aluno, suas notas, a média dos exercícios,
+a média de aproveitamento, o conceito correspondente e a mensagem:
+APROVADO se o conceito for A,B ou C e REPROVADO se o conceito for D ou E.
 """
 ```
 
