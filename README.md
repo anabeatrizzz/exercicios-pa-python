@@ -1,12 +1,49 @@
-## Explicando pastas de exemplos
+## Tópicos dos pdfs
 
-- ### exemplos_Aula_1
-   - Contém exemplos simples para se conhecer a sintaxe e também a lógica de programação, tais como: adicionar dois números, mostrar algum texto na tela, o uso de operadores lógicos, etc.
-- ### exemplos_Aula_2
-   - Os exemplos dentro desta pasta irão demonstrar como as estruturas condicionais e de repetição funcionam. São estruturas que auxiliam na diminuição de linhas de código iguais.
-- ### exemplos_Aula_3
-   - Exemplos que demonstram o uso de métodos para que seu programa principal fique menor, contendo apenas linhas de código necessárias.
-- ### exemplos_Aula_4
-   - Demonstrando o uso de vetores e matrizes para que não seja necessária a criação de várias variáveis, sabendo que estes dois conceitos armazenam vários valores de uma só vez. 
-- ### exemplos_Aula_5
-   - Usar classes para definir objetos da vida real, indicando seu(s) comportamento(s) e sua(s) característica(s), também é outra facilidade que está em várias linguagens de programação.
+### Aula_1:
+- Linguagem de Programação C#
+- Tela Inicial do Microsoft Visual C# 2010 Express
+- Criando um projeto
+- Ambiente para Desenvolvimento
+- Estrutura básica padrão
+- Primeiro exemplo “Hello World” - Tela/Resultado/Comandos
+- Salvando o projeto pela primeira vez
+- Erros em tempo de Compilação
+- Erros de compilação
+- Erros em tempo de Execução
+- Tipos de Dados
+- Tipos Primitivos em Linguagem C#
+- Declaração de variáveis
+- Definição de nomes para variáveis
+- Comando de Atribuição
+- Operadores Aritméticos
+- Exemplo 2
+- Console.WriteLine()
+- Entendendo melhor a instrução
+- Outra forma de exibição
+- Precedência de Operadores
+- Constantes
+- Exemplo 3: Constante e Formatação/Resultado
+- Bliblioteca Math
+- Exemplo 4: Tratando Strings/Resultado
+- Entrada de Dados
+- Exemplo 5 - Entrada de Dados/Resultado
+- Armazenar outros tipos de dados
+- Mais alguns exemplos de conversões
+- Exemplo 6 – Conversão de Tipos de Dados/Resultado
+- Exemplo 7 – Adição de dois números inteiros
+- Operadores Relacionais
+- Exemplo 8 - Operadores Relacionais/Resultado
+- Operadores Lógicos/Tabela Verdade
+- Exemplo 9 – Operadores Lógicos/Resultado
+- Operadores Ternários
+- Exemplo 10 - Operadores Ternários
+- Outros Operadores de Atribuição
+- Exemplo 11 - Operadores de Atribuição
+- Incremento e Decremento
+- Prefixo e Sufixo
+
+### Aula_2:
+### Aula_3:
+### Aula_4:
+### Aula_5:
