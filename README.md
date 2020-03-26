@@ -47,5 +47,30 @@
 - Estruturas de Repetição, qual usar?
 
 ### Aula_3:
+- Sintaxe: Métodos
+- Comando return
+- Fazendo uma analogia
+- Passagem de parâmetros por valor
+- Métodos - Esclarecimentos
+
 ### Aula_4:
+- Vetor
+- Vetor - Exemplo de declaração
+- Com ou sem uso de vetor? - comparativos
+- Diferença no armazenamento
+- Matriz
+- Matriz - exemplo de declaração e inicialização
+
 ### Aula_5:
+- Sintaxe de uma struct
+- Criando uma struct
+- Declarando variável do tipo struct
+- Atribuindo valores na variável do tipo struct
+- Vetor de registros
+- Criando uma struct aluno
+- Declarando vetor de registros do tipo aluno
+- Atribuindo valores no vetor
+- Atribuindo valores no vetor usando estrutura de repetição
+- Exibindo valores do vetor usando estrutura de repetição
+- Vetor de registros
+- Matriz de registros
