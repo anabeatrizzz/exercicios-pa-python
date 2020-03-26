@@ -74,3 +74,20 @@
 - Exibindo valores do vetor usando estrutura de repetição
 - Vetor de registros
 - Matriz de registros
+
+### Aula_6:
+- Classes e objetos
+- O que são classes?
+- Criando uma classe
+- Construindo uma classe
+- Classe Pessoa.cs
+- Conceitos de POO: Construtores, Visibilidade dos membros, Propriedades, Métodos, Objetos
+- Classe Program.cs
+- Classe com mais mebros
+- Arrays (Vetor e Matriz): Dimensões
+- Array de objetos - vetor/matriz
+- Mais alguns fundamentos da programação orientada a objetos
+- Herança: Construção de sub-classes, Representação na forma de diagrama de classe, Classe Pessoa, Classe Aluno, Classe Program
+- Tratamento de exceções: Try/Catch
+- Tratamento de erros mais especificos
+- Considerações
