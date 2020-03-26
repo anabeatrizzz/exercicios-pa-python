@@ -1,5 +1,5 @@
 class Pessoa():
-	def __init(self):
+	def __init__(self):
 		self.nome = ""
 		self.idade = 0
 		self.altura = 0.0
